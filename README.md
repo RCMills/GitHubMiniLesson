@@ -1,1 +1,1 @@
-README file for a new GIT Repo
+We are experimenting with GitHub
